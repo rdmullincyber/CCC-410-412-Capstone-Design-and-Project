@@ -1,4 +1,4 @@
 ### Ryan Mullin Capstone
 
 
-# [Project Ideas](../docs/potential.md)
+# [Project Ideas](https://rdmullincyber.github.io/CCC-410-Capstone-Design/docs/potential.md)
