@@ -1,6 +1,6 @@
 # Topic Decomposition
 
-[[ https://github.com/rdmullincyber/CCC-410-Capstone-Design/blob/master/docs/MindMup.png ]]
+[[https://github.com/rdmullincyber/CCC-410-Capstone-Design/blob/master/docs/MindMup.png]]
 
 # Research Threats
 Crucial step before we go into a 2 week sprint, look for various threats for the VM’s to have
