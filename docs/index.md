@@ -2,3 +2,5 @@
 
 
 # [Project Ideas](potential.md)
+
+# [Project Decomposition](decomp.md)
