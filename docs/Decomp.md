@@ -127,7 +127,7 @@ Deliver intentionally vulnerable Linux VM for student Learning
 ## Windows Script .exe
 Deliver finished scripts or executables to create a vulnerable Windows VM
 
-Worked on together with Brandon Wilbur
+# Worked on together with Brandon Wilbur
 
 # References:
 ## MindMup links (Not sure which one will work):
