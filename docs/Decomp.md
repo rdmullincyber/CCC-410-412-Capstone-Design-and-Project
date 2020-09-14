@@ -1,4 +1,4 @@
-#Topic Decomposition
+# Topic Decomposition
 
 # Research Threats
 Crucial step before we go into a 2 week sprint, look for various threats for the VM’s to have
