@@ -3,4 +3,4 @@
 
 # [Project Ideas](potential.md)
 
-# [Project Decomposition](decomp.md)
+# [Project Decomposition](Decomp.md)
