@@ -131,5 +131,5 @@ Deliver finished scripts or executables to create a vulnerable Windows VM
 
 # References:
 ## MindMup links (Not sure which one will work):
-https://drive.google.com/file/d/10KxqstctkpUhsuQO0UIyhHSj0FUCOfEo/view?usp=sharing
-https://drive.mindmup.com/map/10KxqstctkpUhsuQO0UIyhHSj0FUCOfEo
+[https://drive.google.com/file/d/10KxqstctkpUhsuQO0UIyhHSj0FUCOfEo/view?usp=sharing](https://drive.google.com/file/d/10KxqstctkpUhsuQO0UIyhHSj0FUCOfEo/view?usp=sharing)
+[https://drive.mindmup.com/map/10KxqstctkpUhsuQO0UIyhHSj0FUCOfEo](https://drive.mindmup.com/map/10KxqstctkpUhsuQO0UIyhHSj0FUCOfEo}
