@@ -2,6 +2,8 @@
 
 ![](https://github.com/rdmullincyber/CCC-410-Capstone-Design/blob/master/docs/MindMup.png)
 
+# Note: Green= Not Difficult Yellow/Orange= Somewhat Difficult Red= Difficult 
+
 # Research Threats
 Crucial step before we go into a 2 week sprint, look for various threats for the VM’s to have
 
